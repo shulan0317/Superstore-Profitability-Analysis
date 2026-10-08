@@ -62,3 +62,15 @@ Historical sales data cannot establish the causal impact of discounts on sales v
 ## Dataset
 
 Sample Superstore retail sales dataset.
+
+## Project Files
+
+### Power BI Dashboard
+
+![Superstore Profitability Dashboard](dashboard/Dashboard.png)
+
+### Analysis & Report
+
+- [SQL Analysis](sql/profitability_analysis.sql)
+- [Power BI Project](dashboard/Superstore_Profit_Discount_Analysis.pbix)
+- [Final Business Report (PDF)](report/Superstore_Final_Business_Report.pdf)

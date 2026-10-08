@@ -73,4 +73,4 @@ Sample Superstore retail sales dataset.
 
 - [SQL Analysis](sql/profitability_analysis.sql)
 - [Power BI Project](dashboard/Superstore_Profit_Discount_Analysis.pbix)
-- [Final Business Report (PDF)](report/Final Report.pdf)
+- [Final Business Report (PDF)](report/Final_Report.pdf)
